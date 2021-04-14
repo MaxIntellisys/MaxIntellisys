@@ -19,21 +19,21 @@ A **Full Stack Software Engineer** curious about the Javascript ecosystem and re
 Taking an approch of _learn by doing_ has help me understand and be able to explain complex computer science
 concepts in an easy to digest way. Hopefuly I can do the same for you. Join me in my journey to **play** with
 technology and let's build the future together 😉.
-
+<br />
 
 > Play is the highest form of research.
 > 
 > -- <cite>Albert Einstein</cite>
 
-
-<a href="https://twitter.com/maxsierra16">
-  <img align="left" alt="Max Sierra | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/maximo-sierra/">
-  <img align="left" alt="Max's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<br />
+<div>
+  <a href="https://twitter.com/maxsierra16">
+    <img align="left" alt="Max Sierra | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/maximo-sierra/">
+    <img align="left" alt="Max's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
+<div/>
+<br/><br/>
 
 ```javascript
 
