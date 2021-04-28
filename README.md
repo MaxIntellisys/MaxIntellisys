@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 # I'm Max Sierra!
-A **Full Stack Software Engineer** curious about the Javascript ecosystem and related technologies. 
-Taking an approch of _learn by doing_ has help me understand and be able to explain complex computer science
-concepts in an easy to digest way. Hopefuly I can do the same for you. Join me in my journey to **play** with
+A **Full Stack Software Engineer** curious about the JavaScript ecosystem and related technologies. 
+Taking an approach of _learn by doing_ has help me understand and be able to explain complex computer science
+concepts in an easy to digest way. Hopefully I can do the same for you. Join me in my journey to **play** with
 technology and let's build the future together 😉.
 <br />
 
