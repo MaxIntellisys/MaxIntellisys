@@ -53,7 +53,7 @@ const me = {
   
 #### 💬 Get in touch:
 - 📫 Say hello, [@MaxSierra16](https://twitter.com/maxsierra16);
-- 📝 [Resume](https://docs.google.com/document/d/1m2TG5jfxq49ToGck9mkGLSh-KypKpXBsTk9AGgY8SEE/edit?usp=sharing)
+- 📝 [Resume](https://docs.google.com/document/d/17JA9RHuYRC-CZG_JSvftsBUdvd9WDUlD7ZmrbWeOeQw/edit#heading=h.tqz13uvfsepo)
 
 **Languages and Tools:**  
 
